@@ -1,8 +1,7 @@
-import React, {Component} from 'react'
+import React from 'react'
 import ReactDOM from 'react-dom'
 import App from './components/App'
+import '../src/Index.css'
 
-ReactDOM.render(<App />, document.querySelector('#root')
 
-
-)
+ReactDOM.render(<App />, document.querySelector('#root'))
