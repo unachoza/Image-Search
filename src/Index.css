@@ -1,11 +1,15 @@
 body {
-background-color: #CBBDCC;
-}
+    background-image: url("https://res.cloudinary.com/dh41vh9dx/image/upload/v1574441011/Screen_Shot_2019-11-22_at_11.32.43_AM.png");
+    /* background-position: center; */
+     /* background-repeat: no-repeat; */
+    /* background-size: cover; */
+    /* height: 100%;  */
+   }
 label {
-    background-color: #A58CA7
+    background-color: rgb(156, 240, 219)
 }
 div.ui.segment {
-    background-color: #A58CA7
+    background-color: rgb(156, 240, 219)
 }
 input {
     border: 3px black solid
